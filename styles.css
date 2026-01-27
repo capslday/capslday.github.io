@@ -329,7 +329,7 @@ section {
 }
 
 .bento-title {
-    font-family: var(--font-mono);
+    font-family: var(--font-sans);
     font-size: 13px;
     font-weight: 500;
     color: var(--color-text);
